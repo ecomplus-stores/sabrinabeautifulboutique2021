@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0f6f944ebeea9183a4fac685486ee164.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.0fb013e56fc0957ea8cf4fe0ee42c235.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.53a2846b364b5a89f1d8a79e181600df.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.2ea2cc6cac27999e29c4c80055e4a194.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.41838b69858a9a2413cdae80278aefdc.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Sabrina Beautiful Boutique",
+  "short_name": "sabrinabeautifulboutique2021",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "sabrinabeautifulboutique2021",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
